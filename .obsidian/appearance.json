@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "ITS Alternative Themes"
+  ],
+  "translucency": false,
+  "baseFontSize": 17
+}

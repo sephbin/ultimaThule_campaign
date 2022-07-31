@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#npc",
+      "color": {
+        "a": 1,
+        "rgb": 16711888
+      }
+    },
+    {
+      "query": "tag:#chapter",
+      "color": {
+        "a": 1,
+        "rgb": 5431454
+      }
+    },
+    {
+      "query": "tag:#adventure",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.85,
+  "lineSizeMultiplier": 3.27916666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.544943820224719,
+  "repelStrength": 10.4494382022472,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.2292013594174936,
+  "close": true
+}

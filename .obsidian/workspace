@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "ac877395c1da4348",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe756c324ed6e64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30012a40673279cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1436815c1211afcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24d6209bb8453d2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4b1e79468c64bd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#lore",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25b098818408b5d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f9aba26c5a93763",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c095b352543689c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce0125d73c811fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b405c84e5ffe8ffb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "af14be7254c8ab95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d88bff10abaf48cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "349cd00eafa16511",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md"
+              }
+            }
+          },
+          {
+            "id": "b2f66dd1d841d439",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "cfe756c324ed6e64",
+  "lastOpenFiles": [
+    "2.0 Lore/Magescience.md",
+    "2.0 Lore/Proto-Gods.md",
+    "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
+    "2.0 Lore/Thule.md",
+    "2.0 Lore/Liminal Particle.md",
+    "9.9 Other/Dictionary/Liminal.md",
+    "2.0 Lore/Scubworms.md",
+    "2.0 Lore/Ultima-God.md",
+    "2.0 Lore/Rhetoric District 22.md",
+    "1.0 Characters/psuedoLiminal Vending Machine 1.03.05.md"
+  ]
+}
