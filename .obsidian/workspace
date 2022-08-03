@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md"
+                "file": "README.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "cfe756c324ed6e64",
   "lastOpenFiles": [
+    "9.9 Other/Untitled.md",
+    "9.9 Other/Pinboard/Ideas.md",
+    "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
     "2.0 Lore/Magescience.md",
     "2.0 Lore/Proto-Gods.md",
-    "0.0 Adventures/The Sublime Run of the Tangerine Oroborus.md",
     "2.0 Lore/Thule.md",
     "2.0 Lore/Liminal Particle.md",
     "9.9 Other/Dictionary/Liminal.md",
     "2.0 Lore/Scubworms.md",
-    "2.0 Lore/Ultima-God.md",
-    "2.0 Lore/Rhetoric District 22.md",
-    "1.0 Characters/psuedoLiminal Vending Machine 1.03.05.md"
+    "2.0 Lore/Ultima-God.md"
   ]
 }
