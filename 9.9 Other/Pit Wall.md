@@ -22,4 +22,6 @@ Other than a lack of these physical properties, it does:
 - have a friction coefficient
 
 It is effectively impervious to any damage, and therefore has been used innovatively as a support for structures, and a means to create measurement metrics. Relative to the size of a regular Thulese person or structure, the Pit Wall is flat, and therefore can be used to test rulers and is regularly used as a reference point in Thulese property law and city planning. Various caloquial terms have arisen referencing the wall, such as:
-"\[They/It\] are/is as straight as the Pit Wall" is a term used to reference a person or system that appears at first to be honest, true and trustworthy but once you see the bigger picture they are corrupt liars and or tainted systems.
+>"\[They/It\] are/is as straight as the Pit Wall"
+
+is a term used to reference a person or system that appears at first to be honest, true and trustworthy but once you see the bigger picture they are corrupt liars and or tainted systems.
